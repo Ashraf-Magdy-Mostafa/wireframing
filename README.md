@@ -86,4 +86,27 @@ Figma is a powerful, **cloud-based design tool** that allows real-time **collabo
 > Example: In a real project for a hotel booking system, wireframes helped identify missing features like “guest reviews” early, saving development time later.
 
 ---
+## 🧪 Wireframing in Practice
+
+**Scenario:**  
+A mobile banking app was in early design when the wireframe exposed a confusing onboarding flow. Users were forced to enter data across five separate screens.
+
+**Problem Identified in Wireframe:**
+- Too many onboarding steps
+- Repeated data fields
+- Lack of progress indicators
+
+**Solution:**
+- Combined steps into 2 screens
+- Introduced a progress bar
+- Added inline validation
+
+**Impact:**  
+- Reduced onboarding time by 40%  
+- Increased app activation rate
+
+**Conclusion:**  
+Wireframing helped identify and solve a critical usability issue before development. It ensured the final product was **intuitive**, **efficient**, and **user-centric**.
+
+---
 
