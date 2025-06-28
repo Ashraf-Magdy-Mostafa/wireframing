@@ -75,4 +75,15 @@ Figma is a powerful, **cloud-based design tool** that allows real-time **collabo
 - Excellent for both **wireframes** and **prototypes**
 
 ---
+## ✅ Benefits of Wireframing in Software Development
+
+- **Improves collaboration** between designers, developers, and stakeholders
+- Provides a **clear blueprint** to developers, reducing ambiguity
+- Helps **prioritize features and functions** early on
+- Acts as a **reference document** for future updates
+- Helps with **scope management** by identifying required components up front
+
+> Example: In a real project for a hotel booking system, wireframes helped identify missing features like “guest reviews” early, saving development time later.
+
+---
 
