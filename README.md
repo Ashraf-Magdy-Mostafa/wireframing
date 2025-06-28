@@ -48,3 +48,18 @@ Shows where text, images, videos, and other content elements will be placed on e
 Maps out the **interactive elements** like buttons, forms, and modals, illustrating how users interact with the product.
 
 ---
+## 🔍 Types of Wireframes
+
+### ✏️ Low-Fidelity Wireframes
+- **Simple sketches** or digital outlines
+- Focus on **basic structure** and **functionality**
+- Used in early stages for **quick brainstorming**
+- Often **black and white** with placeholders
+
+### 🎯 High-Fidelity Wireframes
+- More **detailed and refined**
+- Closely resemble the **final product**
+- Include exact **spacing, labels, icons**, and sometimes real content
+- Used in **later stages** for stakeholder approvals and developer handoff
+
+---
