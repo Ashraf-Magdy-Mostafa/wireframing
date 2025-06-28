@@ -63,3 +63,16 @@ Maps out the **interactive elements** like buttons, forms, and modals, illustrat
 - Used in **later stages** for stakeholder approvals and developer handoff
 
 ---
+## 🛠️ Popular Wireframing Tools
+
+### ⭐ Figma
+Figma is a powerful, **cloud-based design tool** that allows real-time **collaboration**. It's especially useful for both low- and high-fidelity wireframes.
+
+**Key Features:**
+- Real-time collaboration with teammates
+- Drag-and-drop interface for easy layout building
+- Plugins and component libraries
+- Excellent for both **wireframes** and **prototypes**
+
+---
+
