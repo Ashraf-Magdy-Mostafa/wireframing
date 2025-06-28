@@ -33,3 +33,18 @@ Wireframes act as a **reference point** during the design and development phases
 By removing visual distractions, wireframes help designers zero in on **functionality** and **user flow**, making sure the product is **intuitive and user-friendly**.
 
 ---
+## 🧱 Key Elements in a Wireframe
+
+### 🔲 Layout Structure
+Defines the **arrangement of elements** on the screen, such as headers, footers, sidebars, and main content areas.
+
+### 🧭 Navigation
+Outlines how users **move through** the interface, including menus, links, and buttons.
+
+### 🧾 Content Placement
+Shows where text, images, videos, and other content elements will be placed on each screen.
+
+### ⚙️ Functionality
+Maps out the **interactive elements** like buttons, forms, and modals, illustrating how users interact with the product.
+
+---
